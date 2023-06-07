@@ -1,0 +1,5 @@
+%% ShootingGame %%
+
+- To run the shooting game, run shooting_game.py
+- A datafile (results.dat) will be created at the top level (if one doesn't exist already), and all user scores will be stored in this datafile
+- plotGraph.py contains some functions to plot the user results in the application
